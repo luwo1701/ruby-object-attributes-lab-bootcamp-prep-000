@@ -1,3 +1,3 @@
-class Dog(name)
-  @name=name
+class Dog
+  def name= ame
 end
