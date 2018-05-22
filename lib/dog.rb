@@ -1,1 +1,3 @@
-class Dog
+class Dog(name)
+  @name=name
+end
