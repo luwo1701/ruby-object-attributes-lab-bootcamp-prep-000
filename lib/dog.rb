@@ -1,3 +1,7 @@
 class Dog
-  def name= ame
+  def name= (name)
+    @name=name
+  end
+  def name
+    
 end
